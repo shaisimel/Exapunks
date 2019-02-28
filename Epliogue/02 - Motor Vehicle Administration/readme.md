@@ -4,4 +4,4 @@ This task, like most tasks, requires you to _leave no trace_. You must terminate
 
 For help completing this task see "Ghast Walks U Thru It" in the first issue of the zine.
 
-![Solution](EXAPUNKS%20-%20TRASH%20WORLD%20NEWS%20(4%2C%203%2C%202%2C%202019-02-13-18-50-00).gif)
+![Solution](https://github.com/shaisimel/Exapunks/blob/master/Epliogue/02%20-%20Motor%20Vehicle%20Administration/EXAPUNKS%20-%20Motor%20Vehicle%20Administration%20(611%2C%2091%2C%207%2C%202019-02-26-19-34-03).gif)
