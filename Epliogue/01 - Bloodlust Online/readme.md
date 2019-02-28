@@ -4,4 +4,4 @@ This task, like most tasks, requires you to _leave no trace_. You must terminate
 
 For help completing this task see "Ghast Walks U Thru It" in the first issue of the zine.
 
-![Solution](EXAPUNKS%20-%20TRASH%20WORLD%20NEWS%20(4%2C%203%2C%202%2C%202019-02-13-18-50-00).gif)
+![Solution](https://github.com/shaisimel/Exapunks/blob/master/Epliogue/01%20-%20Bloodlust%20Online/EXAPUNKS%20-%20Bloodlust%20Online%20(190%2C%2084%2C%2019%2C%202019-02-25-20-55-55).gif)
